@@ -1,5 +1,5 @@
 # Download-Images-
-Pasos para descargar imágenes de una página web, en este ejemplo se descarga varias imágenes en una carpeta especificada
+En este repositorio se utiliza Jupyter.notebook para explicar un ejemplo de como descargar y guardar imágenes de una página web teniendo en cuenta algunas consideraciones como el filtrado y elección de las imágenes. Creando algunas funiciones y al final se aplica un ciclo recursivo para lograr el objetivo  
 Se utilizan las siguientes librerías.
 1. request
 Es una librería que nos proporciona una interfaz fácil de utilizar con http, lo que simplifica el proceso de envió y recepción de datos de las páginas web
